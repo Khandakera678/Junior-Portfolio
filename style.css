@@ -10,7 +10,7 @@ body {
   font-family: 'Montserrat', Arial, sans-serif;
   background-color: #0b0c1a;
   color: #f0f0f0;
-  background-image: url("starry_sun.jpg");
+  background-image: url("midnight.avif");
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
@@ -20,7 +20,8 @@ body {
    NAVBAR
 ========================= */
 .navbar {
-  background-color: #1b1d3a;
+  /*background-color: #1c0469;*/
+  background-image: url("blue\ gradient.jpg");
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
